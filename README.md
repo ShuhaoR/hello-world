@@ -4,6 +4,14 @@ I love teaching Git!
 I love CS
 third line
 
+git add
+git add README.md
+git add \*.md
+git commit -m "Anything"
+git push origin main
+git pull
+git status
+
 My commands:
 Last login: Mon Sep 19 14:16:27 on ttys000
 (base) shuhaoruan@10-23-5-35 ~ % ssh-keygen -t ed25519 -C "sr5553@nyu.edu"  
@@ -18,9 +26,9 @@ The key fingerprint is:
 SHA256:M7WBLNr/bkOCBE6ZAAVQEmWcy4DOCWk1c9bIP0CNb4A sr5553@nyu.edu
 The key's randomart image is:
 +--[ED25519 256]--+
-|OXB*+*= |
-|=+oEX* + . |
-|=o.+ .* o o |
+|OXB*+_= |
+|=+oEX_ + . |
+|=o.+ ._ o o |
 | +o .o.\* . o |
 | ..o.S . |
 | ...o. |
@@ -52,7 +60,7 @@ remote: Counting objects: 100% (3/3), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 (base) shuhaoruan@10-23-5-35 Desktop % ls
-561653658248*.pic
+561653658248_.pic
 661653658806*.pic.pdf
 Arch
 Blank_Authorization_for_Release_of_Information.pdf
