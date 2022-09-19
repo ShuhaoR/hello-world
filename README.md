@@ -2,6 +2,7 @@
 
 I love teaching Git!
 I love CS
+third line
 
 My commands:
 Last login: Mon Sep 19 14:16:27 on ttys000
